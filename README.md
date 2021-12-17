@@ -7,7 +7,7 @@ I was unsatisfied with the output from GPT-2, so I shelved the project and moved
 
 The way I generated this essay was by asking GPT-3 questions and splicing the result paragraphs together. I tried to change sentences as minimally as possible. For the most part, I only added transitions and changed tenses of responses. I did take a little poetic license on the final paragraph (can you blame me?). 
 
-I've included 3 documents. Initial.txt is the full list of questions I asked GPT-3 and the answers I got. Prune.pdf are the paragraphs I used from Initial.txt, rearranged to match the order they show up in the final essay but otherwise unaltered. Final.pdf is the final product, with all changes added. Looking at prune.pdf and Final.pdf side by side should show you how much I changed to get to the final output. 
+I've included 3 documents. [initial.pdf](https://github.com/harris-mohamed/hybris/blob/main/pdf/initial.pdf) is the full list of questions I asked GPT-3 and the answers I got. [prune.pdf](https://github.com/harris-mohamed/hybris/blob/main/pdf/prune.pdf) are the paragraphs I used from initial.pdf, rearranged to match the order they show up in the final essay but otherwise unaltered. [final.pdf](https://github.com/harris-mohamed/hybris/blob/main/pdf/final.pdf) is the final product, with all changes added. Looking at prune.pdf and final.pdf side by side should show you how much I changed to get to the final output. 
 
 I was super impressed. Were you fooled? 
 
