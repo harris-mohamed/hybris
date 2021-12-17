@@ -1,6 +1,14 @@
 # Hybris
-[Hybris](https://www.hybrisforum.com/) is a website where people upload articles discussing the complex relationship between humans and technology (among other things). One of my friends submitted an article and reached out to me, encouraging me to submit an article as well. The articles on the website are eloquent and deeply insightful, skills which I do not usually associate with my writing. 
+[Hybris](https://www.hybrisforum.com/) was a website where people uploaded articles discussing the complex relationship between humans and technology (among other things). One of my friends submitted an article and reached out to me, encouraging me to submit an article as well. The articles on the website are eloquent and deeply insightful, skills which I do not usually associate with my writing. 
 
-I have had a huge interest in GPT-3 for a while now, and figured this would the perfect project to try it on. My initial idea was to write down an essay on Artificial Intelligence and have GPT-3 write its own essay, hopefully reflecting my thoughts on the matter. Unfortunately, GPT-3 was deemed unsafe to make public, as its text samples were extremely realistic. I was forced to use a skinned down version of GPT-2. To say this was a downgrade is a huge understatement. My initial attempts had a lot of overfitting (it would spit back the same essay I wrote). I finally got it working (kinda) and writing creatively based on what thoughts I put in. The code is detailed in this [colaboratory notebook](https://colab.research.google.com/drive/1KZtsZc_kHdBQsF8jbtex-LJgOmroSr-B?usp=sharing). I feel like I've genuinely hit the limits of GPT-2. A lot of other projects I see either don't care too much about coherency or have a lot more sample data to train with.  Until the day that GPT-3 comes out, this is as good as this project will be. 
+At the time, the state of the art in text generation was GPT-2. I bashed my head against the wall for 2 weeks trying to get a cohererent output, but it wasn't great. I included it in this repo if you're interested in reading it. 
 
-The final essay was stitched together by taking various outputs from GPT-2's answer to several prompts and modifying transitions, tenses, and other minor things to make the output flow better. Out of frustration, I also used some output from [InferKit](https://app.inferkit.com/demo). 
+I was unsatisfied with the output from GPT-2, so I shelved the project and moved on to other stuff. GPT-3 came out a few months later, and I was fortunate enough to get access to it. Between GPT-3 and Copilot, it's honestly a little scary how good the AI is at generating realistic text.
+
+The way I generated this essay was by asking GPT-3 questions and splicing the result paragraphs together. I tried to change sentences as minimally as possible. For the most part, I only added transitions and changed tenses of responses. I did take a little poetic license on the final paragraph (can you blame me?). 
+
+I've included 3 documents. Initial.txt is the full list of questions I asked GPT-3 and the answers I got. Prune.pdf are the paragraphs I used from Initial.txt, rearranged to match the order they show up in the final essay but otherwise unaltered. Final.pdf is the final product, with all changes added. Looking at prune.pdf and Final.pdf side by side should show you how much I changed to get to the final output. 
+
+I was super impressed. Were you fooled? 
+
+Don't worry, though. I wrote this README myself. (Or did I?)
